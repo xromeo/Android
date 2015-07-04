@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="fabricio">Happy Birthday Fabricio Rivera!</string>
+    <string name="gabriel">Your Brother Gabriel!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
